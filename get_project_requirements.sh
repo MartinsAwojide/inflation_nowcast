@@ -7,3 +7,6 @@ conda list --export | grep -v '^#' | awk -F '=' '{print $1"=="$2}' >> requiremen
 # Add pip-installed packages
 echo -e "\n# Pip-installed packages" >> requirements.txt
 pip freeze >> requirements.txt
+
+# clean up
+sed -i '/@/d' requirements.txt
