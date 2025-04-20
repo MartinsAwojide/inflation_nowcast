@@ -2,7 +2,10 @@
 inflation_data/*
 topic/*
 images/*
+related_topics/*
+trends_data/*
 
 # specific data files
-
+*.xls
+*.xlsx
 
