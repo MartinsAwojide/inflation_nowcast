@@ -1,4 +1,14 @@
 # data folders
 inflation_data/*
 images/*
+<<<<<<< HEAD
 topic/*
+=======
+related_topics/*
+trends_data/*
+
+# specific data files
+*.xls
+*.xlsx
+
+>>>>>>> 34dcea5 (UPDATE: relevant ground truth and trends data w/ collation notebooks)
