@@ -1,7 +1,7 @@
 # directory
-./images/*
-./inflation_data/*
-./related_topics/*
-./topic/*
-./trends_data/*
+images/*
+inflation_data/*
+related_topics/*
+topic/*
+trends_data/*
 
