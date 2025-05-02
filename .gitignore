@@ -5,3 +5,5 @@ related_topics/*
 topic/*
 trends_data/*
 
+*.csv
+*.png
